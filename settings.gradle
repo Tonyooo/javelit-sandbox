@@ -1,0 +1,10 @@
+// Dependency ma
+
+pluginManagement {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "javelit-sandbox"
